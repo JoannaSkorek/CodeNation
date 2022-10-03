@@ -89,4 +89,3 @@
 // }
 // console.log (randomNumber)
 
-Activity 5 

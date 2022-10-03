@@ -47,16 +47,30 @@
    
 
 
-Activity 2
-
-const pet = {
-    petName: "Cody",
-    typeOfPet: "Dog",
-    age: 1, 
-    colour: "black"
-
-}
+// Activity 2
 
 
-pet.colour = "white"
-console.log (pet)
+// const pet = {
+//     petName: "Cody",
+//     typeOfPet: "Dog",
+//     age: 1, 
+//     colour: "black"
+
+// }
+
+
+// pet.changeColour = "white"
+// console.log (`My ${pet.typeOfPet} is called ${pet.petName}, he is ${pet.changeColour}`)
+
+Activity 3
+
+// const pet = {
+//     petName: "Cody",
+//     typeOfPet: "Dog",
+//     age: 1, 
+//     colour: "black",
+//     hobbies: ["jumping",  "chewing", "bitting"]
+// }
+// console.log (`My ${pet.typeOfPet} is called ${pet.petName} he is ${pet.age} year old. He like ${pet.hobbies}.`)
+
+
