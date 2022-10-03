@@ -68,10 +68,15 @@
 // }
  
 // // Activity 4a / weekend alarm 
-// let weekend alarm = ("weekend")
 
-// if 
+// let weekendAlarm = "Saturday"
 
+// if (weekendAlarm == "Saturday" || weekendAlarm == "Sunday"){
+//     console.log("Yay, it's the weekend")
+// }
+// else {
+//     console.log("Oh no, work again")
+// }
 
 
 
@@ -98,8 +103,14 @@
 
 // Activity 6 / num 
 
-
-let num = 1001
+// let num = "1001"
+// let reverseNum = num.split("").reverse().join("")
+// if (reverseNum == num){
+//     console.log(true)
+// }
+// else {
+//     console.log(false)
+// }
 
 
 // Activity 7  fizz/ buzz
@@ -120,23 +131,29 @@ let num = 1001
 // }
 
 // Activity 8  / Time
-Activity 9  / index
 
-let letters= "jrfndklhgfndjkjlkgperfijfhdknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhejkdsoiufghedjwshi"
-let vowels = ["a","e","i","o","u"]
-let array = letters.split ("");
-let index =[]
-for ( const i = 0; i < array.length; i ++) {
-    
-        if (array [i] == vowels [i]){
 
-        }
+// Activity 9  / index
+
+// let letters= "jrfndklhgfndjkjlkgperfijfhdknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhejkdsoiufghedjwshi"
+// let vowels = ["a","e","i","o","u"]
+// let array = letters.split ("");
+// let count = 0;
     
-}
+// for (let i = 0; i < array.length; i++){
+//     for (let x = 0; x < vowels.length; x++){
+//         if (array[i] == vowels[x]){
+//             count = i;
+//         }
+//     }
+// }
+
+
+// console.log(count)
+
     
 
-console.log (count);
-console.log (array[count]);
+
 
 
 
@@ -156,7 +173,7 @@ console.log (array[count]);
 
 // Activity 11  /  num1/num2
 
-let num1 = 5
+// let num1 = 5
 // let num2 = 9
 
 // if ((num1 + num2)% 2 == 0 ) {
